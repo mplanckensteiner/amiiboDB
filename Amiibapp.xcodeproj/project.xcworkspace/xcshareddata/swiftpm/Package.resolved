@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CheckmarkCollectionViewCell",
+        "repositoryURL": "https://github.com/yonat/CheckmarkCollectionViewCell",
+        "state": {
+          "branch": null,
+          "revision": "d5be769035881c69a0206ad2e86f89927be9dda0",
+          "version": "1.0.5"
+        }
+      },
+      {
+        "package": "SweeterSwift",
+        "repositoryURL": "https://github.com/yonat/SweeterSwift",
+        "state": {
+          "branch": null,
+          "revision": "783afac9c3492e905ab3f5afea4069a737edfc40",
+          "version": "1.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
